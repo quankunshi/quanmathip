@@ -3,10 +3,12 @@
 <h3 align="center">I'm from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=quanmathip" alt="quanmathip" /> <img src="https://badges.pufler.dev/repos/quanmathip" alt="quanmathip" /> </p>
 
-- ✍ I'm a student of: (https://www.uit.edu.vn/).
+- I'm a student of: (https://www.uit.edu.vn/).
+- I would like to become a data engineer.
+- I learnt about: Python3, SQL, Data warehouse...
 
 
-## 📫 How to reach me:
+## Contact me:
 <p align="center">
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-qu%C3%A2n-7198b2218/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
