@@ -5,7 +5,7 @@
 
 - I'm a student of: (https://www.uit.edu.vn/).
 - I would like to become a data engineer.
-- My skill: Python3, SQL, Data warehouse, Apache basic...
+- My skills: Python3, SQL, Data warehouse, Apache basic...
 
 
 ## Contact me:
