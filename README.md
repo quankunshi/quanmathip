@@ -2,7 +2,7 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">I'm from Vietnam </h3>
 
-- I'm a student of: (https://www.uit.edu.vn/).
+- I'm a student of: [UIT](https://www.uit.edu.vn).
 - I would like to become a data engineer.
 - My skills: Python3, SQL, Data warehouse, Apache basic...
 
