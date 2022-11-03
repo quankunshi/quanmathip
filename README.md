@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minh Quan</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">I'm from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=quanmathip" alt="quanmathip" /> <img src="https://badges.pufler.dev/repos/quanmathip" alt="quanmathip" /> </p>
 
 - I'm a student of: (https://www.uit.edu.vn/).
 - I would like to become a data engineer.
